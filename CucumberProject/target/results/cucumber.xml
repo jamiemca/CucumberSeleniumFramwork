@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="2.914" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Swag Lab Test" name="Error message shown when using incorrect log in credentials" time="2.781">
+<system-out><![CDATA[
+Given the user has navigated to the website.................................passed
+When incorrect login details are entered....................................passed
+Then the "Username and password do not match any user in this service" message is displayed.passed
+]]></system-out>
+</testcase>
+</testsuite>
